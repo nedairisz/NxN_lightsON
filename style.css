@@ -1,0 +1,20 @@
+
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+
+}
+
+.container div {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(80, 77, 77);
+    margin: 5px; 
+}
+.vilagit{
+    background-color: rgb(241, 227, 32) !important ;
+} 
